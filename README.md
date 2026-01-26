@@ -30,5 +30,5 @@
 
 - languages: C, C++, C#, Python
 - engines: Unity
-- tools: Git, CMake, gTest
+- tools: Git, CMake, valgrind, gTest, gdb
 </details>
