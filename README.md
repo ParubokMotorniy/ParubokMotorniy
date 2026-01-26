@@ -2,7 +2,7 @@
 
 <h1 align="center">oles</h1>
 <p align="center">
-  game dev • C / C++ / C# • graphics / engines / tooling
+  gamedev • C / C++ / C# • graphics / engines / tooling
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ---
 
 ### now
-- 🎮 building: my bachelor thesis
-- 🤝 open to: **internships / junior roles** (engine development / tools / rendering)
+- 🎮 building my bachelor thesis
+- 🤝 open to: **internships / junior roles** (engine development / rendering / tools )
 
 ### key projects
 - **vulkan** — "A lightweight rendering engine built on top of Vulkan, designed to abstract away the low-level complexity while maintaining flexibility. The engine provides a simple API for loading and rendering 3D scenes"
