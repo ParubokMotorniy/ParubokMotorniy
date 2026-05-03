@@ -14,19 +14,20 @@
 ---
 
 ### now
-- 🎮 building my bachelor thesis
+<!-- - 🎮 building my bachelor thesis -->
 - 🤝 open to: **internships / junior roles** (engine development / rendering / tools )
 
 ### key projects
 
 #### Graphics
+- **[Terrain generation sandbox](https://github.com/ParubokMotorniy/procedural_terrains)** - "A sandbox I've created in Unity as part of work on my bachelor thesis. It allows one to build, tune and profile procedural terrain generation pipelines." 
 - **[vulkan](https://github.com/triffois/vulkan)** — "A lightweight rendering engine built on top of Vulkan, designed to abstract away the low-level complexity while maintaining flexibility. The engine provides a simple API for loading and rendering 3D scenes"
 - **[opengl-mischiefs](https://github.com/ParubokMotorniy/opengl-mischiefs)** — "A hobbyist OpenGL-based rendering engine teaching the fundamentals of graphics programming"
 - **[SPH fluid modelling](https://github.com/RickSanj/SPH_Fluid_modelling)** — "This work reports on the numerical modeling of fluid behavior using the Smoothed Particle Hydrodynamics (SPH) method, implemented in compute shaders"
 - **[Quaternions sandbox](https://github.com/ParubokMotorniy/quaternions-sandbox)** - "Sandbox for exploring how rotations and orientations in 3D space can be represented mathematically using quaternions and Euler angles"
 
 #### Videogames
-- **WoodsRPG** - "Two-level RPG with detailed scenes and dynamic combat system along with AI-basics"
+- **[WoodsRPG](https://github.com/ParubokMotorniy/WoodsRPG)** - "Two-level RPG with detailed scenes and dynamic combat system along with AI-basics"
 - **[Doominator](https://github.com/ParubokMotorniy/Doominator)** - "One of my first games. A simple infinite 2D slasher platformer"
 - **[ProcessorAllocation](https://github.com/ParubokMotorniy/ProcessorAllocation)** - "A simulation of three different processor allocation algorithms created in Unity Engine. Migrating jobs are visualized as debug ducks)"
 - **[TrajectoryCalculation](https://github.com/ParubokMotorniy/TrajectoryCalculation)** - "A Unity asset which helps users quickly precalculate and visualize trajectories of objects of various physical parameters"
