@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/ParubokMotorniy">github</a> ·
   <a href="https://www.linkedin.com/in/oles-volodymyr-yarish-826b452a9">linkedin</a> ·
+  <a href="https://www.shadertoy.com/user/kaba4ok">shadertoy</a> ·
   <a href="mailto:oles.yarish@gmail.com">email</a>
 </p>
 
