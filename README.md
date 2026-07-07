@@ -21,7 +21,7 @@
 ### key projects
 
 #### Graphics
-- **[Terrain generation sandbox](https://github.com/ParubokMotorniy/procedural_terrains)** - "A sandbox I've created in Unity as part of work on my bachelor thesis. It allows one to build, tune and profile procedural terrain generation pipelines." 
+- **[Terrain generation sandbox](https://github.com/ParubokMotorniy/procedural_terrains)** - "A compute-based sandbox I've created in Unity as part of work on my bachelor thesis. It allows one to build, tune and profile procedural terrain generation pipelines." 
 - **[vulkan](https://github.com/triffois/vulkan)** — "A lightweight rendering engine built on top of Vulkan, designed to abstract away the low-level complexity while maintaining flexibility. The engine provides a simple API for loading and rendering 3D scenes"
 - **[opengl-mischiefs](https://github.com/ParubokMotorniy/opengl-mischiefs)** — "A hobbyist OpenGL-based rendering engine teaching the fundamentals of graphics programming"
 - **[SPH fluid modelling](https://github.com/RickSanj/SPH_Fluid_modelling)** — "This work reports on the numerical modeling of fluid behavior using the Smoothed Particle Hydrodynamics (SPH) method, implemented in compute shaders"
