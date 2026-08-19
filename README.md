@@ -2,7 +2,7 @@
 
 <h1 align="center">oles</h1>
 <p align="center">
-  gamedev • C / C++ / C# • graphics / engines / tooling
+  gamedev • C / C++ / C# • game engines / graphics / tooling
 </p>
 
 <p align="center">
@@ -45,5 +45,5 @@
 
 - languages: C, C++, C#, Python
 - engines: Unity
-- tools: Git, CMake, valgrind, gTest, gdb
+- tools: Git, CMake, valgrind, gTest, gdb, perf
 </details>
