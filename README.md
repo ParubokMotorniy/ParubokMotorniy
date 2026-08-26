@@ -16,6 +16,7 @@
 
 ### now
 <!-- - 🎮 building my bachelor thesis -->
+- Learning Godot 🤖
 - 🤝 open to: **internships / junior roles** (engine development / rendering / tools )
 
 ### key projects
