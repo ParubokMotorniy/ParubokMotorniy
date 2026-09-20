@@ -17,6 +17,7 @@
 ### now
 <!-- - 🎮 building my bachelor thesis -->
 - Learning Godot 🤖
+- Looking for opportunities to join game development professionally 🔎     
 - 🤝 open to: **internships / junior roles** (engine development / rendering / tools )
 
 ### key projects
