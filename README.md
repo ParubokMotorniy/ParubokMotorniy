@@ -31,8 +31,8 @@
 - **[Quaternions sandbox](https://github.com/ParubokMotorniy/quaternions-sandbox)** - "Sandbox for exploring how rotations and orientations in 3D space can be represented mathematically using quaternions and Euler angles"
 
 #### Videogames
-- **[WoodsRPG](https://github.com/ParubokMotorniy/WoodsRPG)** - "Two-level RPG with detailed scenes and dynamic combat system along with AI-basics"
-- **[Doominator](https://github.com/ParubokMotorniy/Doominator)** - "One of my first games. A simple infinite 2D slasher platformer"
+- **[WoodsRPG](https://github.com/ParubokMotorniy/WoodsRPG)** - "Two-level Unity-based RPG with detailed scenes and dynamic combat system along with AI-basics"
+- **[Doominator](https://github.com/ParubokMotorniy/Doominator)** - "One of my first Unity games. A simple infinite 2D slasher platformer"
 - **[ProcessorAllocation](https://github.com/ParubokMotorniy/ProcessorAllocation)** - "A simulation of three different processor allocation algorithms created in Unity Engine. Migrating jobs are visualized as debug ducks."
 - **[TrajectoryCalculation](https://github.com/ParubokMotorniy/TrajectoryCalculation)** - "A Unity asset which helps users quickly precalculate and visualize trajectories of objects of various physical parameters"
 - **[World-Navigation](https://github.com/ParubokMotorniy/World-Navigation)** - "An experimental Unity asset that offers functionality of heads-up compass and a minimap"
